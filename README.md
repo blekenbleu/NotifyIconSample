@@ -1,12 +1,13 @@
 # NotifyIconSample
 Minimal example of NotifyIcon app with initially invisible form.  Adapted from .NET [NotifyIcon Class](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.notifyicon?view=netframework-4.7.2) Example
 ## Background
-Years ago, I wrote ANSI C Win32 utilities using Rector & Newcomer "Win32 Programming".  
-So much as possible since then, I avoided C++ and objective C so much as possible  
-largely because those languages struck me as ugly.  C# is not unpleasant to look at,
-but some syntax is less than intuitive and some classed do __NOT__ behave intuitively.
+Years ago, I wrote ANSI C Win32 utilities using [Rector & Newcomer "Win32 Programming"](https://www.amazon.com/dp/B006PU8B8C).  
+So much as possible since then, C++ and objective C  were avoided *because ugly*.  
+C# seems not unpleasant in appearance, but some syntax is unobvious  
+and some classes do __NOT__ behave intuitively.
 
-I intend to write filter programs that will mostly sit quietly on the notification bar,  
-but pop up balloons, dialog boxes and/or frames as appropriate.
-After trying to hack other GitHub repositories to suit,
-first nailing the proposed user interface seems a better approach.
+The eventual goal is filter programs that mostly sit quietly on the notification bar,  
+but pop up balloons, dialog boxes and/or frames as appropriate.  
+After trying to hack other GitHub repositories to suit,  
+first sorting the proposed user interface seems a better approach.  
+Meanwhile, Albahari's ["C# 7.0 Pocket Reference"](https://www.amazon.com/gp/product/1491988533) is on the way..
